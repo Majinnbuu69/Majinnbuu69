@@ -18,10 +18,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ### `$ whoami`
 
 ```yaml
@@ -36,15 +32,6 @@ currently: Shipping echo-app & social-ai-studio
 vibe     : Ship fast. Iterate. Win.
 motto    : "Fait le avant les autres."
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majinnbuu69&layout=donut&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&langs_count=6" width="210"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -98,9 +85,9 @@ Posts, carrousels & vidéos Instagram<br/>via Gemini + Veo 3.1.
 
 </div>
 
----
-
 <br/>
+
+---
 
 ## ⚡ Stack
 
@@ -126,7 +113,7 @@ Posts, carrousels & vidéos Instagram<br/>via Gemini + Veo 3.1.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Majinnbuu69&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&count_private=true&rank_icon=github" height="160"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Majinnbuu69&bg_color=0f0c29&color=a78bfa&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
