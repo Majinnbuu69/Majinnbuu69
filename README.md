@@ -2,16 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:6d28d9,100:0ea5e9&height=220&section=header&text=EMIR&fontSize=90&fontColor=ffffff&fontAlignY=55&desc=@Majinnbuu69&descAlignY=75&descSize=18&descColor=a78bfa&animation=fadeIn&stroke=a78bfa&strokeWidth=1" width="100%"/>
 
-</div>
-
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Fait+le+avant+les+autres.+%E2%9A%A1;Mobile+%2F+AI+%2F+Social+Automation+%F0%9F%8E%A8;Builder.+Shipper.+Cr%C3%A9ateur.+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Fait+le+avant+les+autres.+⚡;Mobile+%2F+AI+%2F+Social+Automation+🎨;Builder.+Shipper.+Créateur.+🚀" />
+<br/><br/>
 
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/France-🇫🇷-0f0c29?style=flat-square)
+![](https://img.shields.io/badge/France-%F0%9F%87%AB%F0%9F%87%B7-0f0c29?style=flat-square)
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=Majinnbuu69&style=flat-square&color=6d28d9&label=profil+vu)
 
@@ -23,7 +20,7 @@
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ### `$ whoami`
 
@@ -41,9 +38,9 @@ motto    : "Fait le avant les autres."
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majinnbuu69&layout=donut&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&icon_color=38bdf8&langs_count=6" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majinnbuu69&layout=donut&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&langs_count=6" width="210"/>
 
 </td>
 </tr>
@@ -59,12 +56,7 @@ motto    : "Fait le avant les autres."
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6d28d9&height=3&width=100%25"/>
+<td width="50%" valign="top" align="center">
 
 **🎙️ echo-app**
 
@@ -78,21 +70,14 @@ Journal intime vocal et texte,<br/>alimenté par l'IA.
 
 [![Voir →](https://img.shields.io/badge/Voir_le_repo-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majinnbuu69/echo-app)
 
-</div>
-
 </td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0ea5e9&height=3&width=100%25"/>
+<td width="50%" valign="top" align="center">
 
 **🎨 social-ai-studio**
 
 *AI Social Creative Studio*
 
-Génère posts, carrousels & vidéos<br/>Instagram via Gemini + Veo 3.1.
+Posts, carrousels & vidéos Instagram<br/>via Gemini + Veo 3.1.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -100,10 +85,7 @@ Génère posts, carrousels & vidéos<br/>Instagram via Gemini + Veo 3.1.
 
 [![Voir →](https://img.shields.io/badge/Voir_le_repo-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majinnbuu69/social-ai-studio)
 
-</div>
-
 </td>
-
 </tr>
 </table>
 
@@ -111,8 +93,8 @@ Génère posts, carrousels & vidéos<br/>Instagram via Gemini + Veo 3.1.
 
 <div align="center">
 
-**🌐 mjblook** — Interface web personnelle · `HTML`
-&nbsp;[![Voir →](https://img.shields.io/badge/Voir_le_repo-475569?style=flat-square&logo=github&logoColor=white)](https://github.com/Majinnbuu69/mjblook)
+**🌐 mjblook** — Interface web personnelle &nbsp;·&nbsp; `HTML`
+&nbsp;&nbsp;[![Voir →](https://img.shields.io/badge/Voir_le_repo-475569?style=flat-square&logo=github&logoColor=white)](https://github.com/Majinnbuu69/mjblook)
 
 </div>
 
@@ -144,9 +126,7 @@ Génère posts, carrousels & vidéos<br/>Instagram via Gemini + Veo 3.1.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Majinnbuu69&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&count_private=true&rank_icon=github" height="155"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Majinnbuu69&theme=transparent&hide_border=true&fire=a78bfa&ring=0ea5e9&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Majinnbuu69&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&count_private=true&rank_icon=github" height="160"/>
 
 </div>
 
